@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "775454931346",
+    "firebase_url": "https://cooking-app-final.firebaseio.com",
+    "project_id": "cooking-app-final",
+    "storage_bucket": "cooking-app-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775454931346:android:38e95cd958050338",
+        "android_client_info": {
+          "package_name": "com.AndroidProjectFinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775454931346-4o0lnth1cpevnrvdv4h7emeqkrudje6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AndroidProjectFinal",
+            "certificate_hash": "1719171e21a37ccc56186b6066218d1cca49e692"
+          }
+        },
+        {
+          "client_id": "775454931346-dmmt5ldp33v3mg2pfl89jlm4ra1dubh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMP1HXPDc4GEjUlwP2LG4Yr1zKTabErXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775454931346-dmmt5ldp33v3mg2pfl89jlm4ra1dubh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
