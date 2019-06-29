@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Cooking App</string>
+
+    <string name="btnIAmNew">I am new</string>
+    <string name="btnIveBeenHere">I\'ve been here</string>
+    <string name="txtWelcome">Welcome !</string>
+    <string name="txtFirstName">First Name</string>
+    <string name="txtLastName">Last Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtUsername">Username</string>
+    <string name="txtPassword">Password</string>
+    <string name="txtGender">Gender</string>
+    <string name="rdbtnMale">Male</string>
+    <string name="rdbtnFemale">Female</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="txtAlreadyHaveAccountSignIn">Already have an account? <b><u>Sign In</u></b></string>
+    <string name="txtNoAccount">Don\'t have an account? <b><u>Sign Up</u></b></string>
+    <string name="chckboxRememberMe">Remember Me</string>
+    <string name="txtForgotPassword">Forgot Password?</string>
+    <string name="btnChangeUserData">Change your data</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="rateFood">Click To Rate Food</string>
+
+    <string name="directions">
+        1.Cut the whole chickens into 4 breasts, 4 thighs, 4 legs and 4 wings and set aside.\n\n
+        2.Preheat your oil, in either a heavy pan on the stove or a deep-fryer, to 325 degrees F.\n\n
+        3.In a large bowl, combine the flour, salt, black pepper, garlic powder, onion powder and cayenne pepper until thoroughly mixed. Set aside.\n\n
+        4.After 15 minutes, take a probe thermometer and check the temperature of a breast. If it reads 180 degrees F, all of your chicken is done.\n\n
+        5.Remove the chicken from the oil and let it drain for 5 minutes. Let cool for an additional 10 minutes before serving.</string>
+
+    <string name="ingridients">
+                        6 cups all-purpose flour\n
+                        5 tablespoons salt\n
+                        4 tablespoons black pepper\n
+                        2 tablespoons garlic powder\n
+                        1 tablespoon onion powder\n
+                        2 teaspoons cayenne pepper\n
+                        2 cups buttermilk</string>
+</resources>
